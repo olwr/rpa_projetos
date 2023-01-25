@@ -28,3 +28,6 @@ Projetos de RPA das atividades do UiPath Academy
 
 ## Check App State
 ![progresso: concluído](https://img.shields.io/badge/concluído-olivedrab "progresso")
+
+## RPA Challenge
+![progresso: concluído](https://img.shields.io/badge/concluído-olivedrab "progresso")
